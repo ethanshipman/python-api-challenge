@@ -1,5 +1,9 @@
 # Adding Config.py file
 api_keys.py
+
+# Custom ignore code
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
